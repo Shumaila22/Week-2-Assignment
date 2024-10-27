@@ -3,5 +3,4 @@
 ### Preview
 
 ### Deployment
-<img width="506" alt="Screenshot 2024-10-27 at 21 28 35" src="https://github.com/user-attachments/assets/fe5dce1f-1de1-4658-986a-abd745e1fb88">
-
+<img width="628" alt="Screenshot 2024-10-27 at 21 37 11" src="https://github.com/user-attachments/assets/56d6ae2b-42fc-483e-ad90-9b7faadd9f5b">
